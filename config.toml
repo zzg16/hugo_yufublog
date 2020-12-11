@@ -1,0 +1,4 @@
+baseURL = "http://blog.zzg16.com"
+languageCode = "en-us"
+title = "Yufu Blog"
+theme = "diary"
